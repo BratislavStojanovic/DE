@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.semafor {
+  width: 300px;
+  height: 650px;
+  margin: 20px auto;
+  border: 3px solid black;
+  border-radius: 6px;
+  box-shadow: 0 0 9px;
+  background-color: #000;
+}
+
+.krug {
+  width: 200px;
+  height: 200px;
+  margin: 8px auto;
+  border: 2px solid black;
+  border-radius: 50%;
+  background-color: grey;
+}
